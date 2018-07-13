@@ -1,0 +1,1 @@
+/usr/bin/c++   -DNOMINMAX -D_USE_MATH_DEFINES  -Wall -Wextra -Wundef   CMakeFiles/opengltest.dir/main.cpp.o CMakeFiles/opengltest.dir/includes/glad/include/glad/glad.c.o CMakeFiles/opengltest.dir/window.cpp.o  -o opengltest /usr/lib64/libglfw.so.3.2 -ldl /usr/lib64/libGL.so 
